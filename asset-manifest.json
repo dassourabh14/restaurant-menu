@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Grillenium/static/css/main.30d1659b.chunk.css",
+    "main.js": "/Grillenium/static/js/main.d5d0ecef.chunk.js",
+    "main.js.map": "/Grillenium/static/js/main.d5d0ecef.chunk.js.map",
+    "runtime-main.js": "/Grillenium/static/js/runtime-main.de750db0.js",
+    "runtime-main.js.map": "/Grillenium/static/js/runtime-main.de750db0.js.map",
+    "static/js/2.903e803d.chunk.js": "/Grillenium/static/js/2.903e803d.chunk.js",
+    "static/js/2.903e803d.chunk.js.map": "/Grillenium/static/js/2.903e803d.chunk.js.map",
+    "index.html": "/Grillenium/index.html",
+    "static/css/main.30d1659b.chunk.css.map": "/Grillenium/static/css/main.30d1659b.chunk.css.map",
+    "static/js/2.903e803d.chunk.js.LICENSE.txt": "/Grillenium/static/js/2.903e803d.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/Grillenium/static/media/G.b571eb82.png",
+    "static/media/award01.361a4bc4.png": "/Grillenium/static/media/award01.361a4bc4.png",
+    "static/media/award02.8bbdd514.png": "/Grillenium/static/media/award02.8bbdd514.png",
+    "static/media/award03.3f7ee934.png": "/Grillenium/static/media/award03.3f7ee934.png",
+    "static/media/award05.48a7f520.png": "/Grillenium/static/media/award05.48a7f520.png",
+    "static/media/App.css": "/Grillenium/static/media/bg.3d421b1b.png",
+    "static/media/chef.f933b60d.png": "/Grillenium/static/media/chef.f933b60d.png",
+    "static/media/findus.585c393c.png": "/Grillenium/static/media/findus.585c393c.png",
+    "static/media/gallery01.f2cbffe3.png": "/Grillenium/static/media/gallery01.f2cbffe3.png",
+    "static/media/gallery02.27663bd9.png": "/Grillenium/static/media/gallery02.27663bd9.png",
+    "static/media/gallery03.b2d50180.png": "/Grillenium/static/media/gallery03.b2d50180.png",
+    "static/media/gallery04.c36a695f.png": "/Grillenium/static/media/gallery04.c36a695f.png",
+    "static/media/gericht.996a2c3f.png": "/Grillenium/static/media/gericht.996a2c3f.png",
+    "static/media/knife.1121c0a5.png": "/Grillenium/static/media/knife.1121c0a5.png",
+    "static/media/laurels.e7608286.png": "/Grillenium/static/media/laurels.e7608286.png",
+    "static/media/logo.0286194c.png": "/Grillenium/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/Grillenium/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.28c01899.png": "/Grillenium/static/media/menu.28c01899.png",
+    "static/media/overlaybg.165362ee.png": "/Grillenium/static/media/overlaybg.165362ee.png",
+    "static/media/sign.7e36c024.png": "/Grillenium/static/media/sign.7e36c024.png",
+    "static/media/spoon.d079f43f.svg": "/Grillenium/static/media/spoon.d079f43f.svg",
+    "static/media/welcome.d724eb98.png": "/Grillenium/static/media/welcome.d724eb98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de750db0.js",
+    "static/js/2.903e803d.chunk.js",
+    "static/css/main.30d1659b.chunk.css",
+    "static/js/main.d5d0ecef.chunk.js"
+  ]
+}
